@@ -1,7 +1,7 @@
 body{
     margin: 0;
     text-align: center;
-    background-image:url("wooden.jpg");
+    background-image:"wooden.jpg";
     background-repeat: no-repeat;
     background-size: 2048px 1020px;
     font-family: 'Merriweather', serif;
