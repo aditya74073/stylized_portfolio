@@ -2,7 +2,7 @@ body{
     margin: 0;
     text-align: center;
     /* background-color:#EAF6F6; */
-    background-image:url(wooden.jpg);
+    background-image:url("wooden.jpg");
     background-repeat: no-repeat;
     background-size: 2048px 1020px;
     font-family: 'Merriweather', serif;
