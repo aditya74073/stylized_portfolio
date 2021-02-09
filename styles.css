@@ -3,7 +3,7 @@ body{
     text-align: center;
     background-image:url("wooden.jpg");
     background-repeat: no-repeat;
-    background-size: 2048px 1020px;
+    background-size: 2048px 2048px;
     font-family: 'Merriweather', serif;
     background-attachment: fixed; 
 }
